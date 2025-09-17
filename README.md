@@ -19,6 +19,10 @@ All books involve **substantial human participation** (design, writing, editing,
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-quant_quant_finance-v01/quant_quant_finance_v17092025.pdf)
   · Release: [`book-quant_quant_finance-v01`](https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01)
 
+- **Emergence of Intelligence** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-emergence_intelligence-v01/emergence_of_intelligence_v.17092025.pdf)
+  · Release: [`book-emergence_intelligence-v01`](https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01)
+
 ---
 
 ## Authorship & human–AI collaboration
