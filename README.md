@@ -14,7 +14,7 @@ All books involve **substantial human participation** (design, writing, editing,
 > Update the links after you create each release (right-click the PDF in the release to copy its download URL).
 
 - **<Title 1>** (<Year>)  
-  [Download PDF](https://github.com/<you>/books/releases/download/book-<slug1>-v1.0/<file1.pdf>) · Release: [`book-<slug1>-v1.0`](https://github.com/<you>/books/releases/tag/book-<slug1>-v1.0) · DOI: <doi-if-any>
+  [Download PDF]([https://github.com/<you>/books/releases/download/book-<slug1>-v1.0/<file1.pdf>](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/structured_reasoning_v.17092025.pdf)) · Release: [`book-<slug1>-v1.0`]([https://github.com/<you>/books/releases/tag/book-<slug1>-v1.0](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/structured_reasoning_v.17092025.pdf)) · DOI: <doi-if-any>
 
 - **<Title 2>** (<Year>)  
   [Download PDF](https://github.com/<you>/books/releases/download/book-<slug2>-v1.0/<file2.pdf>) · Release: [`book-<slug2>-v1.0`](https://github.com/<you>/books/releases/tag/book-<slug2>-v1.0) · DOI: <doi-if-any>
