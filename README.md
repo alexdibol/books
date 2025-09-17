@@ -11,22 +11,39 @@ All books involve **substantial human participation** (design, writing, editing,
 
 ## Catalog
 
-> Update the links after you create each release (right-click the PDF in the release to copy its download URL).
 
-- **<Title 1>** (<Year>)  
-  [Download PDF]([https://github.com/<you>/books/releases/download/book-<slug1>-v1.0/<file1.pdf>](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/structured_reasoning_v.17092025.pdf)) · Release: [`book-<slug1>-v1.0`]([https://github.com/<you>/books/releases/tag/book-<slug1>-v1.0](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/structured_reasoning_v.17092025.pdf)) · DOI: <doi-if-any>
+# Books by Alejandro Reynoso
 
-- **<Title 2>** (<Year>)  
-  [Download PDF](https://github.com/<you>/books/releases/download/book-<slug2>-v1.0/<file2.pdf>) · Release: [`book-<slug2>-v1.0`](https://github.com/<you>/books/releases/tag/book-<slug2>-v1.0) · DOI: <doi-if-any>
+Long-form research (AI & Finance). Each book is published as a **versioned Release** with a stable download URL.
 
-- **<Title 3>** (<Year>)  
-  [Download PDF](https://github.com/<you>/books/releases/download/book-<slug3>-v1.0/<file3.pdf>) · Release: [`book-<slug3>-v1.0`](https://github.com/<you>/books/releases/tag/book-<slug3>-v1.0) · DOI: <doi-if-any>
+## Catalog
 
-- **<Title 4>** (<Year>)  
-  [Download PDF](https://github.com/<you>/books/releases/download/book-<slug4>-v1.0/<file4.pdf>) · Release: [`book-<slug4>-v1.0`](https://github.com/<you>/books/releases/tag/book-<slug4>-v1.0) · DOI: <doi-if-any>
+- **Structural Reasoning for Finance** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/structured_reasoning_v.17092025.pdf)
+  · Release: [`book-structural_reasoning-v1.0`](https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0)
 
-- **<Title 5>** (<Year>)  
-  [Download PDF](https://github.com/<you>/books/releases/download/book-<slug5>-v1.0/<file5.pdf>) · Release: [`book-<slug5>-v1.0`](https://github.com/<you>/books/releases/tag/book-<slug5>-v1.0) · DOI: <doi-if-any>
+---
+
+## Citation
+
+Please cite the **specific version** you used.
+
+**APA**
+> Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0
+
+**BibTeX**
+```bibtex
+@book{reynoso_structural_reasoning_2025_v1_0,
+  author    = {Alejandro Reynoso},
+  title     = {Structural Reasoning for Finance},
+  year      = {2025},
+  version   = {v1.0},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0}
+}
+
+
+
 
 ---
 
