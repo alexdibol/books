@@ -23,6 +23,10 @@ All books involve **substantial human participation** (design, writing, editing,
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-emergence_intelligence-v01/emergence_of_intelligence_v.17092025.pdf)
   · Release: [`book-emergence_intelligence-v01`](https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01)
 
+- **Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-molecular_reasoning-v01/quantum_molecular_reasoning.pdf)
+  · Release: [`book-molecular_reasoning-v01`](https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01)
+
 ---
 
 ## Authorship & human–AI collaboration
@@ -37,7 +41,7 @@ Final responsibility for **ideas, structure, claims, mathematics, and empirical 
 Please cite the **specific book and version** you used. If a DOI is available, prefer the DOI.
 
 ### Structural Reasoning for Finance (v1.0)
-**APA**
+**APA**  
 > Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0
 
 **BibTeX**
@@ -50,3 +54,4 @@ Please cite the **specific book and version** you used. If a DOI is available, p
   publisher = {GitHub},
   url       = {https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0}
 }
+
