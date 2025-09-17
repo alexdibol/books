@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Books by Alejandro Reynoso"
+authors:
+  - family-names: Reynoso
+    given-names: Alejandro
+license: CC-BY-4.0
+repository-code: https://github.com/alexdibol/books
+url: https://github.com/alexdibol/books
+message: "If you use these books, please cite using the book-specific entry in each release."
