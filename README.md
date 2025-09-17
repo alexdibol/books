@@ -27,6 +27,10 @@ All books involve **substantial human participation** (design, writing, editing,
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-molecular_reasoning-v01/quantum_molecular_reasoning.pdf)
   · Release: [`book-molecular_reasoning-v01`](https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01)
 
+- **Automated Prospectus Generation** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-automated_prospectus-v01/AI.Generated.Prospectus-v17-92025.pdf)
+  · Release: [`book-automated_prospectus-v01`](https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01)
+
 ---
 
 ## Authorship & human–AI collaboration
@@ -45,7 +49,7 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 > Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0
 
 **BibTeX**
-```bibtex
+~~~bibtex
 @book{reynoso_structural_reasoning_2025_v1_0,
   author    = {Alejandro Reynoso},
   title     = {Structural Reasoning for Finance},
@@ -54,4 +58,84 @@ Please cite the **specific book and version** you used. If a DOI is available, p
   publisher = {GitHub},
   url       = {https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0}
 }
+~~~
 
+### Quantum-Inspired Algorithms in Quantitative Finance (v01)
+**APA**  
+> Reynoso, A. (2025). *Quantum-Inspired Algorithms in Quantitative Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_quant_inspired_quant_finance_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Quantum-Inspired Algorithms in Quantitative Finance},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01}
+}
+~~~
+
+### Emergence of Intelligence (v01)
+**APA**  
+> Reynoso, A. (2025). *Emergence of Intelligence* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_emergence_intelligence_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Emergence of Intelligence},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01}
+}
+~~~
+
+### Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance (v01)
+**APA**  
+> Reynoso, A. (2025). *Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_quantum_molecular_reasoning_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01}
+}
+~~~
+
+### Automated Prospectus Generation (v01)
+**APA**  
+> Reynoso, A. (2025). *Automated Prospectus Generation* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_automated_prospectus_generation_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Automated Prospectus Generation},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01}
+}
+~~~
+
+---
+
+## License
+
+- **Text & PDFs:** **CC BY 4.0** (Creative Commons Attribution 4.0).  
+- **Code snippets** (if any within the books): **MIT License**, unless otherwise noted.
+
+See the `LICENSE` file(s) for details.
+
+---
+
+## Feedback & errata
+
+Please open an **Issue** on this repository with the book title, version, and page/section reference.  
+Constructive feedback, corrections, and replication notes are welcome.
