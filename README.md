@@ -31,6 +31,11 @@ All books involve **substantial human participation** (design, writing, editing,
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-automated_prospectus-v01/AI.Generated.Prospectus-v17-92025.pdf)
   · Release: [`book-automated_prospectus-v01`](https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01)
 
+
+- **AI for Investment Bankers and CFOs** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_investment_bankers_cfos-v01/BOOK.AI.INVESTMENT.BANKERS.pdf)
+  · Release: [`book-ai_investment_bankers_cfos-v01`](https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01)
+
 ---
 
 ## Authorship & human–AI collaboration
@@ -121,6 +126,23 @@ Please cite the **specific book and version** you used. If a DOI is available, p
   version   = {v01},
   publisher = {GitHub},
   url       = {https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01}
+}
+~~~
+
+
+### AI for Investment Bankers and CFOs (v01)
+**APA**  
+> Reynoso, A. (2025). *AI for Investment Bankers and CFOs* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_ai_investment_bankers_cfos_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {AI for Investment Bankers and CFOs},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01}
 }
 ~~~
 
