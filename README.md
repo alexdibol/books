@@ -12,7 +12,7 @@ All books involve **substantial human participation** (design, writing, editing,
 ## Catalog
 
 - **Structural Reasoning for Finance** (2025)  
-  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/structured_reasoning_v.17092025.pdf)
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/STRUCTURAL.REASONING.COMPLETE.pdf)
   · Release: [`book-structural_reasoning-v1.0`](https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0)
 
 - **Quantum-Inspired Algorithms in Quantitative Finance** (2025)  
@@ -30,7 +30,6 @@ All books involve **substantial human participation** (design, writing, editing,
 - **Automated Prospectus Generation** (2025)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-automated_prospectus-v01/AI.Generated.Prospectus-v17-92025.pdf)
   · Release: [`book-automated_prospectus-v01`](https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01)
-
 
 - **AI for Investment Bankers and CFOs** (2025)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_investment_bankers_cfos-v01/BOOK.AI.INVESTMENT.BANKERS.pdf)
@@ -129,7 +128,6 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 }
 ~~~
 
-
 ### AI for Investment Bankers and CFOs (v01)
 **APA**  
 > Reynoso, A. (2025). *AI for Investment Bankers and CFOs* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01
@@ -155,7 +153,6 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 
 See the `LICENSE` file(s) for details.
 
----
 
 ## Feedback & errata
 
