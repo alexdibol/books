@@ -35,6 +35,18 @@ All books involve **substantial human participation** (design, writing, editing,
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_investment_bankers_cfos-v01/BOOK.AI.INVESTMENT.BANKERS.pdf)
   · Release: [`book-ai_investment_bankers_cfos-v01`](https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01)
 
+- **HBS Case Solving with Molecular Reasoning** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-hbs_molecular_reasooning-v01/BOOK_VERSION_OF_HBS_CASE_SOLVING_WIHT_MOLECULAR_REASONING.pdf)
+  · Release: [`book-hbs_molecular_reasooning-v01`](https://github.com/alexdibol/books/releases/tag/book-hbs_molecular_reasooning-v01)
+
+- **Guide to Multi-Agentic Apps** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-guide_multiagentic_apps-v01/BOOK_ON_AGENTIC_APPS.pdf)
+  · Release: [`book-guide_multiagentic_apps-v01`](https://github.com/alexdibol/books/releases/tag/book-guide_multiagentic_apps-v01)
+
+- **Emergence of Molecular Intelligence (MARL)** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-molecular_reasoning_emergence_marl-v01/BOOK_VERSION_OF_EMERGENCE_OF_MOLECULAR_INTELLIGENCE.pdf)
+  · Release: [`book-molecular_reasoning_emergence_marl-v01`](https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01)
+
 ---
 
 ## Authorship & human–AI collaboration
@@ -144,6 +156,54 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 }
 ~~~
 
+### HBS Case Solving with Molecular Reasoning (v01)
+**APA**  
+> Reynoso, A. (2025). *HBS Case Solving with Molecular Reasoning* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-hbs_molecular_reasooning-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_hbs_molecular_reasoning_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {HBS Case Solving with Molecular Reasoning},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-hbs_molecular_reasooning-v01}
+}
+~~~
+
+### Guide to Multi-Agentic Apps (v01)
+**APA**  
+> Reynoso, A. (2025). *Guide to Multi-Agentic Apps* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-guide_multiagentic_apps-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_guide_multiagentic_apps_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Guide to Multi-Agentic Apps},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-guide_multiagentic_apps-v01}
+}
+~~~
+
+### Emergence of Molecular Intelligence (MARL) (v01)
+**APA**  
+> Reynoso, A. (2025). *Emergence of Molecular Intelligence (MARL)* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_emergence_molecular_intelligence_marl_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Emergence of Molecular Intelligence (MARL)},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01}
+}
+~~~
+
 ---
 
 ## License
@@ -153,6 +213,7 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 
 See the `LICENSE` file(s) for details.
 
+---
 
 ## Feedback & errata
 
