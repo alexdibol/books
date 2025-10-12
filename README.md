@@ -1,3 +1,4 @@
+```markdown
 # Research Books — AI & Finance
 
 This repository hosts **long-form research works**—monographs and curated **compilations of papers**—written by Alejandro Reynoso, either **with or without the collaboration of AI tools**.  
@@ -46,6 +47,10 @@ All books involve **substantial human participation** (design, writing, editing,
 - **Emergence of Molecular Intelligence (MARL)** (2025)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-molecular_reasoning_emergence_marl-v01/BOOK_VERSION_OF_EMERGENCE_OF_MOLECULAR_INTELLIGENCE.pdf)
   · Release: [`book-molecular_reasoning_emergence_marl-v01`](https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01)
+
+- **Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-quantum_capm-v01/QUANTUM.CAPM.pdf)
+  · Release: [`book-quantum_capm-v01`](https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01)
 
 ---
 
@@ -204,6 +209,22 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 }
 ~~~
 
+### Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators (v01)
+**APA**  
+> Reynoso, A. (2025). *Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01
+
+**BibTeX**
+~~~bibtex
+@book{reynoso_quantum_capm_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01}
+}
+~~~
+
 ---
 
 ## License
@@ -212,10 +233,5 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 - **Code snippets** (if any within the books): **MIT License**, unless otherwise noted.
 
 See the `LICENSE` file(s) for details.
+```
 
----
-
-## Feedback & errata
-
-Please open an **Issue** on this repository with the book title, version, and page/section reference.  
-Constructive feedback, corrections, and replication notes are welcome.
