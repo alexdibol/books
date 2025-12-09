@@ -51,6 +51,10 @@ All books involve **substantial human participation** (design, writing, editing,
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-quantum_capm-v01/THEOREM_FINANCE_OPTIMAL_PORTFOLIO.UPDATED.pdf)  
   · Release: [`book-quantum_capm-v01`](https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01)
 
+- **Collected Essays on the Relativistic Geometry of a Unified Finance Theory** (2025)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-essays_relativistic_geometry_finance-v01/BOOK.RELATIVISTIC.FINANCE.pdf)  
+  · Release: [`book-essays_relativistic_geometry_finance-v01`](https://github.com/alexdibol/books/releases/tag/book-essays_relativistic_geometry_finance-v01)
+
 ---
 
 ## Authorship & human–AI collaboration
@@ -224,12 +228,24 @@ Please cite the **specific book and version** you used. If a DOI is available, p
 }
 ~~~
 
+### Collected Essays on the Relativistic Geometry of a Unified Finance Theory (v01)  
+**APA**  
+> Reynoso, A. (2025). *Collected Essays on the Relativistic Geometry of a Unified Finance Theory* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-essays_relativistic_geometry_finance-v01  
+
+**BibTeX**  
+~~~bibtex
+@book{reynoso_relativistic_geometry_unified_finance_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Collected Essays on the Relativistic Geometry of a Unified Finance Theory},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/books/releases/tag/book-essays_relativistic_geometry_finance-v01}
+}
+~~~
+
 ---
 
 ## License
 
 - **Text & PDFs:** **CC BY 4.0** (Creative Commons Attribution 4.0).  
-- **Code snippets** (if any within the books): **MIT License**, unless otherwise noted.
-
-See the `LICENSE` file(s) for details.
-
