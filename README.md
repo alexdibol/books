@@ -1,28 +1,61 @@
 # Research Books — AI & Finance
 
-This repository hosts **long-form research works**—monographs and curated **collections of papers**—written by Alejandro Reynoso, with varying degrees of **AI collaboration under human supervision**.
+Governance-first · long-form · release-versioned · human-accountable
 
-All books involve substantial **human participation** (design, writing, editing, validation) and serve as examples of disciplined **human–AI collaboration** exploring new frontiers in **artificial intelligence and finance**.
+This repository hosts **long-form research books**, **technical monographs**, and **curated collections of papers** by **Alejandro Reynoso** on artificial intelligence, finance, quantitative reasoning, infrastructure, and adjacent institutional applications.
 
-- Camera-ready **PDFs** are distributed via **GitHub Releases** (stable URLs).
-- (Optional) Releases can be mirrored to **Zenodo** to mint **DOIs** for citation.
-- Errata and updates are tracked in the release notes of each release.
+These works are written under a disciplined model of **human–AI collaboration**. AI tools may assist with drafting, editing, coding, formatting, or structural iteration, but all works remain under **human direction, review, and final responsibility**.
+
+**Repository purpose:**
+- distribute stable, camera-ready **PDF editions**
+- maintain **versioned releases** for citation and archival use
+- document revisions through **release notes**
+- provide a transparent record of **human-supervised AI collaboration**
+
+Camera-ready PDFs are distributed through **GitHub Releases**.  
+Optional archival mirrors such as **Zenodo** may be used later to mint DOIs for citation.
 
 ---
 
 ## Table of Contents
 
+- [What this repository contains](#what-this-repository-contains)
 - [Catalog](#catalog)
-- [Authorship & Human–AI Collaboration](#authorship--humanai-collaboration)
-- [Citation](#citation)
-  - [Per-book APA & BibTeX](#per-book-apa--bibtex)
+- [Authorship and Human–AI Collaboration](#authorship-and-humanai-collaboration)
+- [How to cite](#how-to-cite)
 - [License](#license)
+
+---
+
+## What this repository contains
+
+This repository is the release home for research-oriented books at the intersection of:
+
+- artificial intelligence
+- financial practice
+- quantitative and structural reasoning
+- quantum-inspired methods
+- multi-agent systems
+- institutional governance
+- AI infrastructure and deployment economics
+
+The books vary in scope and style. Some are single-subject monographs. Others are collected essays or tightly connected paper bundles organized as short books.
+
+Across all of them, the common principle is the same:
+
+**capability must remain subordinate to accountability**
+
+That means these books are not positioned as autonomous machine outputs. They are curated, reviewed, and finalized under human supervision, with AI used as a tool inside a controlled intellectual workflow.
 
 ---
 
 ## Catalog
 
-Each entry links to the current stable PDF and its corresponding GitHub Release tag.
+Each entry links to its stable PDF and, where available below, its corresponding GitHub Release tag.
+
+- **AI Infrastructure for Financial Practitioners** (2025)  
+  A short research book for financial practitioners on the real drivers of AI adoption in institutions: accelerated computing, GPUs, memory, interconnect, serving architecture, latency, reliability, unit economics, and governance. Its central thesis is that in institutional finance, **AI innovation is infrastructure innovation**.  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_infra/AI.INFRASTRUCTURE.IN.FINANCE.pdf)
 
 - **Structural Reasoning for Finance** (2025)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/STRUCTURAL.REASONING.COMPLETE.pdf)  
@@ -70,202 +103,62 @@ Each entry links to the current stable PDF and its corresponding GitHub Release 
 
 ---
 
-## Authorship & Human–AI Collaboration
+## Authorship and Human–AI Collaboration
 
-These books may incorporate **AI tools** (for drafting, editing, code generation, or formatting), always **under human direction and review**.
+These books may incorporate AI tools for tasks such as:
 
-- Final responsibility for **ideas, structure, claims, mathematics, and empirical results** rests with the human author.
-- AI is treated as a **collaborative tool**, not as an autonomous author.
-- Where appropriate, AI assistance is acknowledged in prefaces or methodological notes.
+- drafting
+- editing
+- restructuring
+- code generation
+- formatting
+- language polishing
+
+However:
+
+- final responsibility for the **ideas, arguments, claims, mathematics, code logic, and empirical interpretations** remains with the human author
+- AI is treated as a **tool within a supervised workflow**, not as an autonomous author
+- where appropriate, AI assistance may be acknowledged in prefaces, notes, or supporting repository material
+
+This repository should therefore be understood as a record of **disciplined human-led research and writing**, sometimes accelerated by AI, never delegated to it.
 
 ---
 
-## Citation
+## How to cite
 
-Please cite the **specific book and version** you used.  
-If a DOI is available (via Zenodo or other services), prefer the DOI; otherwise, the GitHub Release URL is sufficient for academic referencing.
+Please cite the **specific book and version** you used.
 
-### Per-book APA & BibTeX
+If a DOI is later minted through Zenodo or another archival service, prefer the DOI. Otherwise, the relevant **GitHub Release URL** or stable release PDF URL is sufficient for academic referencing.
 
-#### Structural Reasoning for Finance (v1.0)
+Examples from this repository:
 
-**APA**  
-> Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0  
+- Reynoso, A. (2025). *AI Infrastructure for Financial Practitioners*. GitHub. https://github.com/alexdibol/books/releases/download/book-ai_infra/AI.INFRASTRUCTURE.IN.FINANCE.pdf
+- Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0
+- Reynoso, A. (2025). *Quantum-Inspired Algorithms in Quantitative Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01
+- Reynoso, A. (2025). *Emergence of Intelligence* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01
+- Reynoso, A. (2025). *Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01
+- Reynoso, A. (2025). *Automated Prospectus Generation* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01
+- Reynoso, A. (2025). *AI for Investment Bankers and CFOs* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01
+- Reynoso, A. (2025). *HBS Case Solving with Molecular Reasoning* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-hbs_molecular_reasooning-v01
+- Reynoso, A. (2025). *Guide to Multi-Agentic Apps* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-guide_multiagentic_apps-v01
+- Reynoso, A. (2025). *Emergence of Molecular Intelligence (MARL)* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01
+- Reynoso, A. (2025). *Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01
+- Reynoso, A. (2025). *Collected Essays on the Relativistic Geometry of a Unified Finance Theory* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-essays_relativistic_geometry_finance-v01
 
-**BibTeX**
+Suggested BibTeX pattern:
 
-    @book{reynoso_structural_reasoning_2025_v1_0,
+    @book{reynoso_bookkey_2025,
       author    = {Alejandro Reynoso},
-      title     = {Structural Reasoning for Finance},
+      title     = {Book Title},
       year      = {2025},
-      version   = {v1.0},
       publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0}
-    }
-
-#### Quantum-Inspired Algorithms in Quantitative Finance (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Quantum-Inspired Algorithms in Quantitative Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01  
-
-**BibTeX**
-
-    @book{reynoso_quant_inspired_quant_finance_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Quantum-Inspired Algorithms in Quantitative Finance},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01}
-    }
-
-#### Emergence of Intelligence (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Emergence of Intelligence* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01  
-
-**BibTeX**
-
-    @book{reynoso_emergence_intelligence_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Emergence of Intelligence},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01}
-    }
-
-#### Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01  
-
-**BibTeX**
-
-    @book{reynoso_quantum_molecular_reasoning_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Quantum-Inspired Molecular Reasoning: Extensions and Applications to Finance},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning-v01}
-    }
-
-#### Automated Prospectus Generation (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Automated Prospectus Generation* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01  
-
-**BibTeX**
-
-    @book{reynoso_automated_prospectus_generation_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Automated Prospectus Generation},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-automated_prospectus-v01}
-    }
-
-#### AI for Investment Bankers and CFOs (v01)
-
-**APA**  
-> Reynoso, A. (2025). *AI for Investment Bankers and CFOs* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01  
-
-**BibTeX**
-
-    @book{reynoso_ai_investment_bankers_cfos_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {AI for Investment Bankers and CFOs},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-ai_investment_bankers_cfos-v01}
-    }
-
-#### HBS Case Solving with Molecular Reasoning (v01)
-
-**APA**  
-> Reynoso, A. (2025). *HBS Case Solving with Molecular Reasoning* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-hbs_molecular_reasooning-v01  
-
-**BibTeX**
-
-    @book{reynoso_hbs_molecular_reasoning_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {HBS Case Solving with Molecular Reasoning},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-hbs_molecular_reasooning-v01}
-    }
-
-#### Guide to Multi-Agentic Apps (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Guide to Multi-Agentic Apps* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-guide_multiagentic_apps-v01  
-
-**BibTeX**
-
-    @book{reynoso_guide_multiagentic_apps_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Guide to Multi-Agentic Apps},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-guide_multiagentic_apps-v01}
-    }
-
-#### Emergence of Molecular Intelligence (MARL) (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Emergence of Molecular Intelligence (MARL)* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01  
-
-**BibTeX**
-
-    @book{reynoso_emergence_molecular_intelligence_marl_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Emergence of Molecular Intelligence (MARL)},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-molecular_reasoning_emergence_marl-v01}
-    }
-
-#### Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01  
-
-**BibTeX**
-
-    @book{reynoso_quantum_capm_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Quantum CAPM: From Hilbert Spaces to Asset Pricing Operators},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-quantum_capm-v01}
-    }
-
-#### Collected Essays on the Relativistic Geometry of a Unified Finance Theory (v01)
-
-**APA**  
-> Reynoso, A. (2025). *Collected Essays on the Relativistic Geometry of a Unified Finance Theory* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-essays_relativistic_geometry_finance-v01  
-
-**BibTeX**
-
-    @book{reynoso_relativistic_geometry_unified_finance_2025_v01,
-      author    = {Alejandro Reynoso},
-      title     = {Collected Essays on the Relativistic Geometry of a Unified Finance Theory},
-      year      = {2025},
-      version   = {v01},
-      publisher = {GitHub},
-      url       = {https://github.com/alexdibol/books/releases/tag/book-essays_relativistic_geometry_finance-v01}
+      url       = {https://github.com/alexdibol/books/releases/tag/release-tag}
     }
 
 ---
 
 ## License
 
-- **Text & PDFs:** **CC BY 4.0** (Creative Commons Attribution 4.0).  
-  You are free to share and adapt the material, provided appropriate credit is given to the author.
+- **Text and PDFs:** **CC BY 4.0** (Creative Commons Attribution 4.0)
+
+You are free to share and adapt the material, provided appropriate credit is given to the author.
