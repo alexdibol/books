@@ -55,7 +55,7 @@ Each entry links to its stable PDF and, where available below, its corresponding
 
 - **AI Infrastructure for Financial Practitioners** (2026)  
   A short research book for financial practitioners on the real drivers of AI adoption in institutions: accelerated computing, GPUs, memory, interconnect, serving architecture, latency, reliability, unit economics, and governance. Its central thesis is that in institutional finance, **AI innovation is infrastructure innovation**.  
-  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_infra/AI.INFRASTRUCTURE.IN.FINANCE.pdf)
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/latest/download/AI.INFRASTRUCTURE.IN.FINANCE.pdf)
 
 - **Structural Reasoning for Finance** (2025)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-structural_reasoning-v1.0/STRUCTURAL.REASONING.COMPLETE.pdf)  
@@ -132,7 +132,7 @@ If a DOI is later minted through Zenodo or another archival service, prefer the 
 
 Examples from this repository:
 
-- Reynoso, A. (2026). *AI Infrastructure for Financial Practitioners*. GitHub. https://github.com/alexdibol/books/releases/download/book-ai_infra/AI.INFRASTRUCTURE.IN.FINANCE.pdf
+- Reynoso, A. (2026). *AI Infrastructure for Financial Practitioners*. GitHub. https://github.com/alexdibol/books/releases/latest/download/AI.INFRASTRUCTURE.IN.FINANCE.pdf
 - Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0
 - Reynoso, A. (2025). *Quantum-Inspired Algorithms in Quantitative Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01
 - Reynoso, A. (2025). *Emergence of Intelligence* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-emergence_intelligence-v01
@@ -147,10 +147,10 @@ Examples from this repository:
 
 Suggested BibTeX pattern:
 
-    @book{reynoso_bookkey_2025,
+    @book{reynoso_bookkey_year,
       author    = {Alejandro Reynoso},
       title     = {Book Title},
-      year      = {2025},
+      year      = {Year},
       publisher = {GitHub},
       url       = {https://github.com/alexdibol/books/releases/tag/release-tag}
     }
