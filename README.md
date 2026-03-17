@@ -54,7 +54,6 @@ That means these books are not positioned as autonomous machine outputs. They ar
 Each entry links to its stable PDF and corresponding GitHub Release tag.
 
 - **AI Infrastructure for Financial Practitioners** (2026)  
-  A short research book for financial practitioners on the real drivers of AI adoption in institutions: accelerated computing, GPUs, memory, interconnect, serving architecture, latency, reliability, unit economics, and governance. Its central thesis is that in institutional finance, **AI innovation is infrastructure innovation**.  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_infrastructure_finance-v01/AI.INFRASTRUCTURE.IN.FINANCE.pdf)  
   · Release: [`book-ai_infrastructure_finance-v01`](https://github.com/alexdibol/books/releases/tag/book-ai_infrastructure_finance-v01)
 
