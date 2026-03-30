@@ -2,7 +2,7 @@
 
 Governance-first · long-form · release-versioned · human-accountable
 
-This repository hosts **long-form research books**, **technical monographs**, and **curated collections of papers** by **Alejandro Reynoso** on artificial intelligence, finance, quantitative reasoning, infrastructure, and adjacent institutional applications.
+This repository hosts **long-form research books**, **technical monographs**, and **curated collections of papers** by **Alejandro Reynoso** on artificial intelligence, finance, quantitative reasoning, infrastructure, algorithmic trading, and adjacent institutional applications.
 
 These works are written under a disciplined model of **human–AI collaboration**. AI tools may assist with drafting, editing, coding, formatting, or structural iteration, but all works remain under **human direction, review, and final responsibility**.
 
@@ -37,6 +37,7 @@ This repository is the release home for research-oriented books at the intersect
 - quantum-inspired methods
 - multi-agent systems
 - institutional governance
+- algorithmic trading systems
 - AI infrastructure and deployment economics
 
 The books vary in scope and style. Some are single-subject monographs. Others are collected essays or tightly connected paper bundles organized as short books.
@@ -52,6 +53,11 @@ That means these books are not positioned as autonomous machine outputs. They ar
 ## Catalog
 
 Each entry links to its stable PDF and corresponding GitHub Release tag.
+
+- **Agentic Unification of Research and Implementation of Trading Strategies**  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-quanconnect_converters-v01/BOOK.AGENTS.FOR.GOVERNANCE.pdf)  
+  · Release: [`book-quanconnect_converters-v01`](https://github.com/alexdibol/books/releases/tag/book-quanconnect_converters-v01)  
+  · SHA-256: `a56b84c27b66683326fc12933c9183881d9902704940618f2e6e1f6c5fcda869`
 
 - **AI Infrastructure for Financial Practitioners** (2026)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_infrastructure_finance-v01/AI.INFRASTRUCTURE.IN.FINANCE.pdf)  
@@ -132,6 +138,7 @@ If a DOI is later minted through Zenodo or another archival service, prefer the 
 
 Examples from this repository:
 
+- Reynoso, A. *Agentic Unification of Research and Implementation of Trading Strategies* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quanconnect_converters-v01
 - Reynoso, A. (2026). *AI Infrastructure for Financial Practitioners* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-ai_infrastructure_finance-v01
 - Reynoso, A. (2025). *Structural Reasoning for Finance* (Version v1.0). GitHub. https://github.com/alexdibol/books/releases/tag/book-structural_reasoning-v1.0
 - Reynoso, A. (2025). *Quantum-Inspired Algorithms in Quantitative Finance* (Version v01). GitHub. https://github.com/alexdibol/books/releases/tag/book-quant_quant_finance-v01
@@ -156,13 +163,19 @@ Suggested BibTeX pattern:
       url       = {https://github.com/alexdibol/books/releases/tag/release-tag}
     }
 
+Suggested BibTeX for the new book:
+
+    @book{reynoso_agentic_unification_trading_strategies,
+      author    = {Alejandro Reynoso},
+      title     = {Agentic Unification of Research and Implementation of Trading Strategies},
+      version   = {book-quanconnect_converters-v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/books/releases/tag/book-quanconnect_converters-v01},
+      note      = {SHA-256: a56b84c27b66683326fc12933c9183881d9902704940618f2e6e1f6c5fcda869}
+    }
+
 ---
 
-## License
-
-- **Text and PDFs:** **CC BY 4.0** (Creative Commons Attribution 4.0)
-
-You are free to share and adapt the material, provided appropriate credit is given to the author.
 ## License
 
 - **Text and PDFs:** **CC BY 4.0** (Creative Commons Attribution 4.0)
