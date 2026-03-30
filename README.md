@@ -57,7 +57,6 @@ Each entry links to its stable PDF and corresponding GitHub Release tag.
 - **Agentic Unification of Research and Implementation of Trading Strategies**  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-quanconnect_converters-v01/BOOK.AGENTS.FOR.GOVERNANCE.pdf)  
   · Release: [`book-quanconnect_converters-v01`](https://github.com/alexdibol/books/releases/tag/book-quanconnect_converters-v01)  
-  · SHA-256: `a56b84c27b66683326fc12933c9183881d9902704940618f2e6e1f6c5fcda869`
 
 - **AI Infrastructure for Financial Practitioners** (2026)  
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-ai_infrastructure_finance-v01/AI.INFRASTRUCTURE.IN.FINANCE.pdf)  
