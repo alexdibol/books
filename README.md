@@ -54,7 +54,11 @@ That means these books are not positioned as autonomous machine outputs. They ar
 
 Each entry links to its stable PDF and corresponding GitHub Release tag.
 
-- **Agentic Unification of Research and Implementation of Trading Strategies**  
+- **Readings in Financial Innovation** (2026)  
+  [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-financial_innovation-v01/BOOK_FINANCIAL_INNOVATION_IN_EMERGING_MARKETS.pdf)  
+  · Release: [`book-financial_innovation-v01`](https://github.com/alexdibol/books/releases/tag/book-financial_innovation-v01)
+
+- **Agentic Unification of Research and Implementation of Trading Strategies**  (2026)
   [⬇️ Download PDF](https://github.com/alexdibol/books/releases/download/book-quanconnect_converters-v01/BOOK.AGENTS.FOR.GOVERNANCE.pdf)  
   · Release: [`book-quanconnect_converters-v01`](https://github.com/alexdibol/books/releases/tag/book-quanconnect_converters-v01)  
 
